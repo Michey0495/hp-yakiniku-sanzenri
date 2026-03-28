@@ -1,0 +1,13 @@
+{
+  "name": "炭火焼肉 三千里 HP",
+  "description": "北海道釧路市益浦の炭火焼肉店のデモサイト",
+  "url": "https://hp-yakiniku-sanzenri.vercel.app",
+  "provider": {
+    "organization": "EZOAI",
+    "url": "https://ezoai.jp"
+  },
+  "version": "1.0.0",
+  "capabilities": {
+    "pages": ["/", "/menu", "/info", "/contact"]
+  }
+}
